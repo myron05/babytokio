@@ -169,6 +169,16 @@ a.single-about,
 =====================*/
 
 
+.single-about-img img {
+  width: 162px;
+  height: 110px;
+  margin-bottom: 10px;
+}
+.logo-area img {
+  width: 100px;
+  margin-top: 7px;
+  height: 100px;
+}
 
 .header-area {
   /* padding-top: 30px; */
